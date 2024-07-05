@@ -1,0 +1,5 @@
+C:/Users/feyza/source/repos/main/out/build/x64-debug/CMakeFiles/edit_cache.dir
+C:/Users/feyza/source/repos/main/out/build/x64-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/feyza/source/repos/main/out/build/x64-debug/main/CMakeFiles/main.dir
+C:/Users/feyza/source/repos/main/out/build/x64-debug/main/CMakeFiles/edit_cache.dir
+C:/Users/feyza/source/repos/main/out/build/x64-debug/main/CMakeFiles/rebuild_cache.dir
