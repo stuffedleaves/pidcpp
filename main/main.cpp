@@ -22,7 +22,7 @@ int main(int argc, char* argv[])
     float Kp = 0.3;
     float Ki = 0.8;
     float Kd = 0.00001;
-    float measurement = 20;
+    float measurement = 0;
 
     //User arguments
     if (argc > 1)
@@ -38,6 +38,7 @@ int main(int argc, char* argv[])
 
     pid.print();
 
+    //Loop for 2 seconds simulation
     for (float i = 0; i < 2; i += samplingTime) {
         float inc = pid.update(measurement);
         measurement += inc;
